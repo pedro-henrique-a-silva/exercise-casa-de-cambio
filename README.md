@@ -10,16 +10,19 @@
 - [ ] Instalar Vite como Dev Tool e `npm run dev`
 
 ### 2. Estrutura da Aplicação
-- [ ] Estrutura HTML de acordo com protótipo
+- [ ] Estrutura HTML de acordo com [protótipo](https://www.figma.com/file/H3gBEiF0F94VESCGx9DD17/Casa-de-C%C3%A2mbio?node-id=0%3A1)
 - [ ] HTML com tags semânticas
 
 
 ### 3. Interação com API
-
+- [ ] A api está documentada nesse [link](https://exchangerate.host/#/#docs).
+- [ ] A moeda a ser pesquisada deverá ser passada como parâmetro do _endpoint_.
+- [ ] Todas as moedas deverão ser listadas na tela
 
 ### 4. Tratamento de Erro
-- [ ] Mensagem de Erro com Sweet Alert 2
+- [ ] Você deve usar o Sweet Alert 2 para as mensagens de Erro.
+- [ ] Um erro deverá aparecer quando nenhuma moeda é passada.
+- [ ] Um erro deverá aparecer quando uma moeda inexistente é passada. 
 
 ### 5. Estilização (Bônus)
-- [ ] Implementação de protótipo de alta fidelidade
-
+- [ ] Implementação do [protótipo de alta fidelidade](https://www.figma.com/file/H3gBEiF0F94VESCGx9DD17/Casa-de-C%C3%A2mbio?node-id=0%3A1)
