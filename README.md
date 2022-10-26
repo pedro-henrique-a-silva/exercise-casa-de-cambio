@@ -10,7 +10,7 @@
 - [ ] Instalar Vite como Dev Tool e `npm run dev`
 
 ### 2. Estrutura da Aplicação
-- [ ] HTML de acordo com protótipo
+- [ ] Estrutura HTML de acordo com protótipo
 - [ ] HTML com tags semânticas
 
 
@@ -21,4 +21,5 @@
 - [ ] Mensagem de Erro com Sweet Alert 2
 
 ### 5. Estilização (Bônus)
+- [ ] Implementação de protótipo de alta fidelidade
 
