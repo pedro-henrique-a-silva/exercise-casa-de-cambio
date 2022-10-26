@@ -15,3 +15,7 @@
 
 
 ### 4. Tratamento de Erro
+- [ ] Mensagem de Erro com Sweet Alert 2
+
+### 5. Estilização (Bônus)
+
