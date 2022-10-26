@@ -7,8 +7,11 @@
 ### 1. Ambiente do Projeto
 - [ ] Iniciar projeto com NPM
 - [ ] Estrutura pronta para usar ESModules
+- [ ] Instalar Vite como Dev Tool e `npm run dev`
 
 ### 2. Estrutura da Aplicação
+- [ ] HTML de acordo com protótipo
+- [ ] HTML com tags semânticas
 
 
 ### 3. Interação com API
