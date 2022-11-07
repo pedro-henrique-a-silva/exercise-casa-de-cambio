@@ -6,7 +6,7 @@ O protótipo da aplicação está [nesse link](https://www.figma.com/file/H3gBEi
 ## Requisitos
 
 ### 1. Ambiente do Projeto
-- [ ] Criar um repositório do zero ou faça um fork desse repositório (fique à vontade para fazer PRs quando terminar o desenvolvimento).
+- [ ] Criar um repositório do zero ou fazer um fork desse repositório (fique à vontade para fazer PRs quando terminar o desenvolvimento).
 - [ ] Iniciar projeto com NPM.
 - [ ] Estruturar o projeto para usar ESModules (usar `type` como `module` no `package.json` e nas tags `script`).
 - [ ] Instalar Vite como Dev Tool e `npm run dev`.
