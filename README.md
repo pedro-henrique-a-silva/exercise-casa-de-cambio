@@ -6,8 +6,8 @@ O protótipo da aplicação está [nesse link](https://www.figma.com/file/H3gBEi
 
 
 ### 1. Ambiente do Projeto
-- [ ] Iniciar projeto com NPM
 - [ ] Crie um repositório do zero ou faça um fork desse repositório (fique à vontade para fazer PRs quando terminar o desenvolvimento)
+- [ ] Iniciar projeto com NPM
 - [ ] Estrutura pronta para usar ESModules (usar `type` como `module` no `package.json` e nas tags `script`)
 - [ ] Instalar Vite como Dev Tool e `npm run dev`
 
@@ -19,10 +19,10 @@ O protótipo da aplicação está [nesse link](https://www.figma.com/file/H3gBEi
 ### 3. Interação com API
 - [ ] A api está documentada nesse [link](https://exchangerate.host/#/#docs).
 - [ ] A moeda a ser pesquisada deverá ser passada como parâmetro do _endpoint_.
-- [ ] Todas as moedas deverão ser listadas na tela
+- [ ] Todas as moedas deverão ser listadas na tela.
 
 ### 4. Tratamento de Erro
-- [ ] Você deve usar o Sweet Alert 2 para as mensagens de Erro.
+- [ ] Você deve usar o [Sweet Alert 2](https://sweetalert2.github.io/) para as mensagens de Erro.
 - [ ] Um erro deverá aparecer quando nenhuma moeda é passada.
 - [ ] Um erro deverá aparecer quando uma moeda inexistente é passada. 
 
