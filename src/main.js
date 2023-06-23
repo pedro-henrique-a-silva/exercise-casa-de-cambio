@@ -15,7 +15,7 @@ const createFrames = (obj) => {
       const createP = document.createElement('p');
       createP.classList.add('cotacao-data');
       const createSpan = document.createElement('span');
-      createP.innerHTML = `<i class="bi bi-cash-coin"></i>${coin}`;
+      createP.innerHTML = `<i class="bi bi-cash-coin"></i> ${coin}`;
       createSpan.innerText = obj[coin].toFixed(toFixedNumber);
       createP.appendChild(createSpan);
       getCotacao.appendChild(createP);
